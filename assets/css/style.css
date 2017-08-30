@@ -9,11 +9,16 @@ body {
 	color: #fff;
 	height: 100%;
 	text-align: center;
-	/* Use flexbox to center all items: */
+	/* Use flexbox to center all items vertically and horizontally: */
 	display: flex;
 	align-items: center;
 }
 
 #cover-caption {
-	width: 100%;
+	width: 100%; /* Also need this to help with centering. */
+}
+
+.down-arrow {
+	color: #fff;
+	border-color: #fff;
 }
