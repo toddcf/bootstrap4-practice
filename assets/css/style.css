@@ -9,4 +9,11 @@ body {
 	color: #fff;
 	height: 100%;
 	text-align: center;
+	/* Use flexbox to center all items: */
+	display: flex;
+	align-items: center;
+}
+
+#cover-caption {
+	width: 100%;
 }
