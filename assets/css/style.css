@@ -2,3 +2,11 @@ html,
 body {
 	height: 100%; /* Height of the browser. */
 }
+
+#cover {
+	background: #222 url("../img/stars.jpg") no-repeat;
+	background-size: cover;
+	color: #fff;
+	height: 100%;
+	text-align: center;
+}
