@@ -18,6 +18,15 @@ body {
 	width: 100%; /* Also need this to help with centering. */
 }
 
+form {
+	width: 55%;
+	margin: 0 auto;
+}
+
+.form-group {
+	margin-right: 5px;
+}
+
 .down-arrow {
 	color: #fff;
 	border-color: #fff;

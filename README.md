@@ -2,5 +2,6 @@
 
 ## Fix:
 
-- Center the form, too.
-- Add spacing between form fields.
+- Center the form.
+  - Will adding `.flex-center` to any of the elements solve this, or is that Material Design only?
+- Add margins between form fields.
